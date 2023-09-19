@@ -1,2 +1,6 @@
 # LasBrecho
- site feito por mim
+ Tecnologias utilizadas:
+  - Bootstrap
+  - CSS
+  - HTML
+  - JavaScript
